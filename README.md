@@ -48,7 +48,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=connar&layout=compact&langs_count=5&theme=dracula" alt="languages" />
 </div>
 
-<h2 align="left">😌 I hope you find my projects useful/interesting, and let me end this Readme with a chill gif:)</h2>
-<div align="center">
-  <img src="https://giffiles.alphacoders.com/215/215911.gif" alt="Coder GIF" width="500">
-</div>
