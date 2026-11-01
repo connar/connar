@@ -28,9 +28,6 @@
 - :musical_note: One of my goals is to dive into **music production**, specifically learning how to make **breakcore beats** with **Ableton**.
 - :rocket: I also actively participate in **CTF (Capture the Flag)** challenges to sharpen my skills in hacking and cybersecurity.
 
-<h2 align="left">:heart: Let’s get connected:</h2>
-
-[![LinkedIn Badge](https://img.shields.io/badge/-Connar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/connar/)](https://www.linkedin.com/in/angelos-solomos-b588752bb/)  
 
 <h2 align="left">🚀 What I am learning right now:</h2>
 
