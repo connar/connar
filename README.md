@@ -41,10 +41,4 @@
 - **CTF Challenges**: Engaging in **Capture the Flag** competitions to develop and refine my **hacking** and **problem-solving** skills.
 - **Music Production**: Learning to create intense **breakcore beats** with **Ableton** for creative expression.
 
-<h2 align="left">📊 GitHub Stats:</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=connar&show_icons=true&count_private=true&theme=dracula&locale=en" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=connar&layout=compact&langs_count=5&theme=dracula" alt="languages" />
-</div>
 
